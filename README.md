@@ -8,3 +8,5 @@ In this project we use html and CSS coding.
 #About
 In this project describes about various types of movie genres.
 Movie genres like Actio,scientific,comedy,..etc.
+#Designing
+By using CSS and HTML
